@@ -76,6 +76,7 @@ persona1 = Persona(1, 'gerardo', 'perez')
 persona1.mostrar()
 persona2 = Persona(2, 'daniel', 'sanchez')
 persona2.mostrar()
+persona2.
 
 
 
