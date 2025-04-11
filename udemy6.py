@@ -63,20 +63,7 @@ from UDEMY import nombre
 #                       # se ha creado un nuevo atributo llamado: marca con su valor: caro
 # print(f"atributos coche1: {coche1.__dict__}") # el atributo marca solo sale usando __dict__
 
-class Persona:
-    contador = 0
-    def __init__(self, id, nombre, apellido):
-        self.id = id
-        self.nombre = nombre
-        self.apellido = apellido
-    def mostrar(self):
-        print(f"detalles son:\n"
-              f"id: {self.id}, nombre: {self.nombre}, apellido: {self.apellido}")
-persona1 = Persona(1, 'gerardo', 'perez')
-persona1.mostrar()
-persona2 = Persona(2, 'daniel', 'sanchez')
-persona2.mostrar()
-persona2.
+
 
 
 
