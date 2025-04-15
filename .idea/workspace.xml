@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9b25140c-1940-446d-9737-b8e31712ef0f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miarchivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MODULO 2_RETO.py" beforeDir="false" afterPath="$PROJECT_DIR$/MODULO 2_RETO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy7.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
     &quot;Python.dd.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.prueba.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prueba_empleados_empresa.executor&quot;: &quot;Run&quot;,
     &quot;Python.udemy2.executor&quot;: &quot;Run&quot;,
     &quot;Python.udemy3.executor&quot;: &quot;Run&quot;,
     &quot;Python.udemy4.executor&quot;: &quot;Run&quot;,
@@ -55,29 +57,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.MODULO 2_RETO">
-    <configuration name="EJERCICIO SECTION 10 UDEMY - VERY DIFFICULT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="WORKSPACE2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\carol\Desktop\IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025\WORKSPACE2\EJERCICIO SECTION 10 UDEMY - VERY DIFFICULT.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carol\Desktop\IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025\WORKSPACE2\Sistema de empleado_section 8 OPP udemy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.prueba_empleados_empresa">
     <configuration name="MODULO 2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WORKSPACE2" />
       <option name="ENV_FILES" value="" />
@@ -166,6 +151,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="prueba_empleados_empresa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WORKSPACE2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sistema de empleado_section 8 OPP udemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sistema de empleado_section 8 OPP udemy/prueba_empleados_empresa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="udemy7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WORKSPACE2" />
       <option name="ENV_FILES" value="" />
@@ -190,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.prueba_empleados_empresa" />
+        <item itemvalue="Python.udemy7" />
         <item itemvalue="Python.MODULO 2_RETO" />
         <item itemvalue="Python.prueba" />
         <item itemvalue="Python.MODULO 2 (1)" />
-        <item itemvalue="Python.EJERCICIO SECTION 10 UDEMY - VERY DIFFICULT" />
-        <item itemvalue="Python.udemy7" />
       </list>
     </recent_temporary>
   </component>

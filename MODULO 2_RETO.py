@@ -27,13 +27,14 @@ class GestionContactos:
                     datos = linea.strip().split(',')
                     nombre, telefono, email = datos
                     contacto = Contacto(nombre, telefono, email)
-                    self.lista_de_contactos. append(contacto)
+                    self.lista_de_contactos.append(contacto)
     def guardar_contactos(self):
         with open(self.NOMBRE_ARCHIVO, 'a') as archivo:
             for contacto in self.lista_de_contactos:
                 archivo.write(contacto.escribir_contacto_en_archivo()) # o
                 # o archivo.write(f"{contacto.nombre},{contacto.telefono},{contacto.correo}\n")
 
+    # funcion reguladora usando metodo de clase o estatico
     @staticmethod
     def validar_email(email):
         patron = r"^[\w\.-]+@[\w\.-]+\.\w+$"
@@ -42,6 +43,7 @@ class GestionContactos:
 
     def agregar_contacto(self, nombre = None, telefono = None, email = None):
         try:
+            # lo ideal seria poner todos los inputs en la seccion de 'if opcion == 1, elif...'
             nombre = input("introduce nombre: ")
             telefono = int(input("introduce telefono: "))
             email = input("introduce email: ")
