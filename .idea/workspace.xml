@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9b25140c-1940-446d-9737-b8e31712ef0f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sistema de bibliotecas_section 8 OPP udemy/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sistema de bibliotecas_section 8 OPP udemy/libro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/computadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/computadora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/dispositivo_entrada.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/dispositivo_entrada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/monitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/monitor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/orden.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/orden.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/prueba_objetos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/prueba_objetos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +43,16 @@
     "Python.MODULO 2 -.executor": "Run",
     "Python.MODULO 2_RETO.executor": "Run",
     "Python.UDEMY.executor": "Run",
+    "Python.computadora.executor": "Run",
     "Python.dd.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.monitor.executor": "Run",
     "Python.prueba.executor": "Run",
     "Python.prueba_empleados_empresa.executor": "Run",
+    "Python.prueba_objetos (1).executor": "Run",
     "Python.prueba_objetos.executor": "Run",
+    "Python.raton.executor": "Run",
+    "Python.teclado.executor": "Run",
     "Python.udemy2.executor": "Run",
     "Python.udemy3.executor": "Run",
     "Python.udemy4.executor": "Run",
@@ -62,8 +71,8 @@
       <recent name="C:\Users\carol\Desktop\IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025\WORKSPACE2\Sistema de empleado_section 8 OPP udemy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.prueba_objetos">
-    <configuration name="MODULO 2_RETO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.prueba_objetos (1)">
+    <configuration name="computadora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WORKSPACE2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MODULO 2_RETO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/computadora.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prueba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="monitor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WORKSPACE2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prueba.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/monitor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prueba_empleados_empresa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prueba_objetos (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WORKSPACE2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sistema de empleado_section 8 OPP udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sistema de empleado_section 8 OPP udemy/prueba_empleados_empresa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/prueba_objetos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prueba_objetos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="raton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WORKSPACE2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sistema de bibliotecas_section 8 OPP udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sistema de bibliotecas_section 8 OPP udemy/prueba_objetos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/raton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="udemy7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teclado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WORKSPACE2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/udemy7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/teclado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prueba_objetos" />
-        <item itemvalue="Python.prueba_empleados_empresa" />
-        <item itemvalue="Python.udemy7" />
-        <item itemvalue="Python.MODULO 2_RETO" />
-        <item itemvalue="Python.prueba" />
+        <item itemvalue="Python.prueba_objetos (1)" />
+        <item itemvalue="Python.computadora" />
+        <item itemvalue="Python.monitor" />
+        <item itemvalue="Python.teclado" />
+        <item itemvalue="Python.raton" />
       </list>
     </recent_temporary>
   </component>
