@@ -19,7 +19,7 @@
 # print(nuevo_texto)
 # nuevo_texto = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
 # print(nuevo_texto)
-from UDEMY import nombre
+from udemy import nombre
 
 
 # #crear un archivo

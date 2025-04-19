@@ -31,7 +31,7 @@
 #     aritmetica2.set_operando1(5)
 #     aritmetica2.set_operando2(4)
 #     aritmetica2.restar()
-from UDEMY import nombre
+from udemy import nombre
 
 
 # class Coche:
