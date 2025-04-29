@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b25140c-1940-446d-9737-b8e31712ef0f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MODULO 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MODULO 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UDEMY.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy6.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,49 +26,56 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2v8YowweAmz5H4JqoIvwO2WODHN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.EJERCICIO SECTION 10 UDEMY - VERY DIFFICULT.executor": "Run",
-    "Python.MODULO 1 - AVANZADO PYTHON.executor": "Run",
-    "Python.MODULO 2 (1).executor": "Run",
-    "Python.MODULO 2 -.executor": "Run",
-    "Python.MODULO 2_RETO.executor": "Run",
-    "Python.UDEMY.executor": "Run",
-    "Python.catalogo_peliculas - section10 udemy.executor": "Run",
-    "Python.computadora.executor": "Run",
-    "Python.dd.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.monitor.executor": "Run",
-    "Python.prueba.executor": "Run",
-    "Python.prueba_empleados_empresa.executor": "Run",
-    "Python.prueba_objetos (1).executor": "Run",
-    "Python.prueba_objetos.executor": "Run",
-    "Python.raton.executor": "Run",
-    "Python.teclado.executor": "Run",
-    "Python.udemy2.executor": "Run",
-    "Python.udemy3.executor": "Run",
-    "Python.udemy4.executor": "Run",
-    "Python.udemy5.executor": "Run",
-    "Python.udemy6.executor": "Debug",
-    "Python.udemy7.executor": "Run",
-    "Python.udemy8.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/carol/Desktop/IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025/WORKSPACE2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.EJERCICIO SECTION 10 UDEMY - VERY DIFFICULT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MODULO 1 - AVANZADO PYTHON.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MODULO 2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.MODULO 2 -.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MODULO 2_RETO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UDEMY.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_zona_fit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.catalogo_peliculas - section10 udemy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cliente_dao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.computadora.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conexion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monitor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prueba.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prueba_empleados_empresa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prueba_objetos (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.prueba_objetos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.raton.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teclado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.udemy2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.udemy3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.udemy4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.udemy5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.udemy6.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.udemy7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.udemy8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carol/Desktop/IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025/personasDB&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carol\Desktop\IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025\personasDB" />
       <recent name="C:\Users\carol\Desktop\IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025\WORKSPACE2\Sistema de empleado_section 8 OPP udemy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.catalogo_peliculas - section10 udemy">
+  <component name="RunManager" selected="Python.cliente_dao">
     <configuration name="catalogo_peliculas - section10 udemy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WORKSPACE2" />
       <option name="ENV_FILES" value="" />
@@ -86,6 +90,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/catalogo_peliculas - section10 udemy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cliente_dao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WORKSPACE2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App zon fit_section 9_DB_udemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App zon fit_section 9_DB_udemy/cliente_dao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,28 +156,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="monitor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="WORKSPACE2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo PC_section 8 OPP udemy/monitor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cliente_dao" />
         <item itemvalue="Python.catalogo_peliculas - section10 udemy" />
         <item itemvalue="Python.prueba_empleados_empresa" />
         <item itemvalue="Python.prueba_objetos (1)" />
         <item itemvalue="Python.computadora" />
-        <item itemvalue="Python.monitor" />
       </list>
     </recent_temporary>
   </component>
