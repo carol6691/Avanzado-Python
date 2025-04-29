@@ -13,17 +13,17 @@
 # perro1.hacer_sonido()
 # gato1 = Gato()
 # gato1.hacer_sonido()
-class Persona:
-    def __init__(self, nombre, apellido):
-        self.nombre = nombre
-        self.apellido = apellido
-    def __str__(self):
-        return f'''
-        nombre: {self.nombre}
-        apellido: {self.apellido}
-        del padre: {super.__str__(self)}'''
-persona1 = Persona ("carolina", "lliberos")
-print(persona1.__str__())
+# class Persona:
+#     def __init__(self, nombre, apellido):
+#         self.nombre = nombre
+#         self.apellido = apellido
+#     def __str__(self):
+#         return f'''
+#         nombre: {self.nombre}
+#         apellido: {self.apellido}
+#         del padre: {super.__str__(self)}'''
+# persona1 = Persona ("carolina", "lliberos")
+# print(persona1.__str__())
 
 
 
