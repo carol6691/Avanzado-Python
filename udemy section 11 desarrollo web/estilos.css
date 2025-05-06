@@ -1,0 +1,19 @@
+/* comentario */
+body{
+    background-color: black;
+    color: white;
+}
+a{
+    color:hotpink;
+}
+a:hover{
+    color: yellow;
+}
+
+/* clases*/
+.texto-centrado{
+    text-align: center;
+}
+.titulo{
+    font-size: 200%
+}

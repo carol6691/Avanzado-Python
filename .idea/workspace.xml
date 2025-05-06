@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b25140c-1940-446d-9737-b8e31712ef0f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MODULO 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MODULO 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -37,12 +36,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.EJERCICIO SECTION 10 UDEMY - VERY DIFFICULT.executor": "Run",
+    "Python.Flask.executor": "Run",
     "Python.MODULO 1 - AVANZADO PYTHON.executor": "Run",
     "Python.MODULO 2 (1).executor": "Run",
     "Python.MODULO 2 -.executor": "Run",
     "Python.MODULO 2_RETO.executor": "Run",
+    "Python.RETO 3 SOLUCION BASICO.executor": "Run",
     "Python.UDEMY.executor": "Run",
+    "Python.Usos de Flask.executor": "Run",
+    "Python.app.executor": "Run",
     "Python.app_zona_fit.executor": "Run",
     "Python.catalogo_peliculas - section10 udemy.executor": "Run",
     "Python.cliente_dao.executor": "Run",
@@ -68,11 +72,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/carol/Desktop/IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025/WORKSPACE2",
+    "last_opened_file_path": "C:/Users/carol/Desktop/IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025/WORKSPACE2/udemy section 11 desarrollo web/ManejoFlask",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\carol\Desktop\IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025\WORKSPACE2\udemy section 11 desarrollo web\ManejoFlask" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\carol\Desktop\IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025\WORKSPACE2" />
       <recent name="C:\Users\carol\Desktop\IBM SkillsBuild Formación Advanced Backend, Python,  Flask, Django Marzo-Mayo 2025\personasDB" />
